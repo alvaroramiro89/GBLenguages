@@ -1,0 +1,1226 @@
+{
+  "header": {
+    "topMenu": {
+      "home": "Accueil",
+      "marketplace": "Place de marché",
+      "matches": "Matchs",
+      "memberships": "Adhésions",
+      "favs": "Favoris",
+      "buys": "Mes Gol-Balls",
+      "myCollection": "Collections",
+      "login": "Connexion",
+      "register": "Inscription",
+      "new": "Nouveau",
+      "comingSoon": "Prochainement"
+    },
+    "searchBar": {
+      "placeholder": "Rechercher"
+    },
+    "userMenu": {
+      "userDropdown": {
+        "welcome": "Bonjour,",
+        "profile": "Mon profil",
+        "logout": "Déconnexion",
+        "notifications": "Notifications",
+        "movements": "Mes mouvements"
+      },
+      "notifications": {
+        "title": "Notifications",
+        "all": "Tout",
+        "noRead": "Non lus",
+        "type": {
+          "PAYMENT_RECEIVED": "Nous avons reçu votre paiement",
+          "PASSWORD_CHANGE": "Votre mot de passe a été changé",
+          "PAYMENT_FAILED": "Nous n'avons pas pu traiter votre paiement",
+          "UNHANDLED": "Une erreur inattendue est survenue",
+          "PAYMENT_RECEIVED_WITH_COUPON": "Votre ballon numérique est déjà disponible",
+          "TRANSFER_SENT_ERROR": "Le transfert a échoué. Réessayez.",
+          "TRANSFER_SENT_OK": "Le transfert a été effectué avec succès.",
+          "TRANSFER_RECEIVED_OK": "Vous avez un nouveau Gol-Ball."
+        },
+        "date": {
+          "second_one": "Il y a {{count}} seconde",
+          "second_other": "Il y a {{count}} secondes",
+          "minute_one": "Il y a {{count}} minute",
+          "minute_other": "Il y a {{count}} minutes",
+          "hour_one": "Il y a {{count}} heure",
+          "hour_other": "Il y a {{count}} heures",
+          "day_one": "Il y a {{count}} jour",
+          "day_other": "Il y a {{count}} jours",
+          "week_one": "Il y a {{count}} semaine",
+          "week_other": "Il y a {{count}} semaines",
+          "month_one": "Il y a {{count}} mois",
+          "month_other": "Il y a {{count}} mois",
+          "year_one": "Il y a {{count}} an",
+          "year_other": "Il y a {{count}} ans",
+          "a_time_ago": "il y a un moment"
+        },
+        "noNotifications": "Aucune notification !"
+      },
+      "favorites": {
+        "title": "Favoris",
+        "delete": "Supprimer",
+        "seeAll": "Voir tous les favoris",
+        "noFavs": "Aucun favori enregistré !",
+        "jornada": "Semaine"
+      }
+    }
+  },
+  "footer": {
+    "links": {
+      "marketplace": {
+        "title": "Place de marché",
+        "marketplace": "Dernier Gol-Ball"
+      },
+      "about": {
+        "title": "À propos de nous",
+        "golball": "Gol-Ball",
+        "us": "Notre équipe"
+      },
+      "support": {
+        "title": "Support",
+        "contact": "Contactez-nous",
+        "faq": "FAQs"
+      }
+    },
+    "legal": {
+      "polity": "Politiques et confidentialité",
+      "polityLink": "https://static.prod.golball.com/marketplace/docs/privacy_policy_fr.pdf",
+      "tyc": "Termes et Conditions",
+      "tycLink": "https://static.prod.golball.com/marketplace/docs/tyc_fr.pdf",
+      "copyright": "Gol-Ball Tous les droits réservés"
+    },
+    "community": {
+      "title": "Faites partie de la communauté",
+      "urls": {
+        "ig": "https://www.instagram.com/golball_/",
+        "tw": "https://twitter.com/golball_",
+        "telegram": "https://t.me/GolBall",
+        "fb": "https://www.facebook.com/thegolball/",
+        "linkedin": "https://linkedin.com/company/golball",
+        "tiktok": "https://www.tiktok.com/@golball_",
+        "twitch": "https://www.twitch.tv/golball_"
+      }
+    }
+  },
+  "pages": {
+    "memberships": {
+      "redirecting": "Redirection en cours...",
+      "pageTitle": "QUAND LE FOOTBALL RENCONTRE WEB3",
+      "cta": {
+        "primary": "opensea",
+        "secondary": "litepaper",
+        "tyc": "*Des conditions générales s'appliquent"
+      },
+      "community": {
+        "title": "Communauté",
+        "list": {
+          "1": "balles de but",
+          "2": "artefacts du musée Laliga",
+          "3": "expériences",
+          "4": "marchandise"
+        }
+      }
+    },
+    "home": {
+      "menu": {
+        "teams": "Équipes",
+        "collections": "Collections",
+        "market": "Place de marché",
+        "presale": "Prévente"
+      },
+      "sections": {
+        "teams": "Classement LaLiga",
+        "topScorers": "Meilleurs buteurs",
+        "nextMatches": "Prochains matchs",
+        "collectibles": "Nouveaux Gol-Balls"
+      }
+    },
+    "presale": {
+      "title": "Prévente",
+      "countdown": "Dépêchez-vous, la prévente se termine dans",
+      "presaletypeOne": "Ajouter à",
+      "presaletypeTwo": "votre collection",
+      "navigateToPresale": "Réduction de prévente",
+      "optionsPresale": {
+        "home_goals": "{{product}} pour chaque Gol-Ball de",
+        "away_goals": "{{product}} pour chaque Gol-Ball de",
+        "match_goals": "{{product}} pour chaque Gol-Ball dans le match",
+        "collectible": "objet de collection",
+        "collectibles": "objets de collection"
+      },
+      "buyWith": "Acheter avec :",
+      "card": "Carte",
+      "crypto": "Crypto",
+      "buyWithCard": "Acheter avec carte",
+      "buyWithCrypto": "Acheter avec crypto",
+      "presaleMatchesAction": "Réduction de prévente",
+      "presaleCheckoutTitle": "Pré-commande",
+      "paymentSuccess_line1": "Félicitations",
+      "paymentSuccess_line2": "Votre paiement a été traité avec succès !",
+      "paymentSuccessDesc": "Nous ajouterons les Gol-Balls à votre compte dès que les buts seront marqués",
+      "paymentSuccessTerms": "Termes et conditions",
+      "paymentSuccessAction": "Matchs",
+      "errors": {
+        "GENERIC_ERROR": "Erreur inattendue. Veuillez réessayer plus tard",
+        "INVALID_PRICE": "Ce prix n'est plus disponible. Veuillez réessayer plus tard."
+      },
+      "status": {
+        "completed": "Épuisé",
+        "future": "Bientôt",
+        "active": "En cours"
+      }
+    },
+    "comingSoon": {
+      "title": "Prochaine sortie Beta bientôt disponible",
+      "count_days": "Jours",
+      "count_hours": "Heures",
+      "count_min": "Minutes",
+      "count_sec": "Secondes"
+    },
+    "marketplace": {
+      "pageTitle": "Place de marché",
+      "noResultsTitle": "C'est ici que vous avez l'opportunité de posséder le ballon.",
+      "noResultsSubTitle": "Veuillez revenir après qu'une de vos équipes préférées ait marqué un but.",
+      "filters": {
+        "title": "Filtrer par",
+        "results": "Résultats",
+        "filterType": {
+          "league": "Ligue",
+          "tournament": "Championnat",
+          "player": "Joueur",
+          "club": "Club",
+          "available": "Disponible"
+        }
+      }
+    },
+    "matches": {
+      "pageTitle": "Matchs de la saison",
+      "week": "Semaine",
+      "live": "EN DIRECT"
+    },
+    "myBuys": {
+      "pageTitle": "Mes Gol-Balls",
+      "noResults": "Commencez votre collection",
+      "trade": {
+        "receive": {
+          "cta": "recevoir",
+          "modalTitle": "Recevoir les Gol-Balls",
+          "modalDescription": {
+            "init": "Pour recevoir un ballon numérique, ",
+            "emphasis": "copiez cette adresse",
+            "end": "et envoyez-la à la personne qui souhaite vous transférer un ballon.",
+            "footer": "Appuyez sur synchroniser pour mettre à jour vos Gol-Balls."
+          },
+          "modalInput": "Adresse du portefeuille virtuel",
+          "modalCta": "Envoyer",
+          "modalCtaAlt": "copié!",
+          "copiedMessage": "Copié dans le presse-papiers"
+        },
+        "deliver": {
+          "success": "Vous avez envoyé un ballon numérique",
+          "cta": "Envoyer",
+          "modalTitle": "Envoyer les Gol-Balls",
+          "modalDescription": {
+            "init": "Collez ici l’adresse du portefeuille sur le réseau Polygon ",
+            "emphasis": "à laquelle vous voulez envoyer le ballon numérique. ",
+            "end": "Assurez-vous que c'est la bonne adresse, ",
+            "warning": "car cette action est irréversible"
+          },
+          "feedback": {
+            "processing": {
+              "modalTitle": "Traitement de la demande en cours",
+              "modalDescription": "Le ballon numérique sera transféré dans quelques instants."
+            },
+            "unminted": {
+              "modalTitle": "Impossible de transférer",
+              "modalDescription": "Ce ballon numérique n'est pas encore créé. Veuillez réessayer ultérieurement."
+            },
+            "free": {
+              "modalTitle": "Impossible de transférer",
+              "modalDescription": "Ce ballon numérique est gratuit et ne peut pas être transféré."
+            },
+            "unassigned": {
+              "modalTitle": "Impossible de transférer",
+              "modalDescription": "Ce ballon numérique n'a pas encore été tiré. Vous pouvez uniquement l'envoyer à un utilisateur Gol-Ball."
+            },
+            "generic": {
+              "modalTitle": "Échec de la transaction",
+              "modalDescription": "Une erreur s'est produite lors de la transaction. Veuillez réessayer."
+            }
+          },
+          "modalInput": "Adresse du portefeuille virtuel",
+          "modalCta": "Envoyer"
+        }
+      },
+      "header": {
+        "goalAmount": "Total des Gol-Balls",
+        "ctaReceive": "Recevoir",
+        "ctaSync": "Synchroniser",
+        "error": "Une erreur s'est produite lors de la synchronisation"
+      },
+      "buys": {
+        "noResults": "Commencez votre collection dès aujourd'hui"
+      }
+    },
+    "collectionsLegacy": {
+      "collections": {
+        "pageTitle": "Vous souvenez-vous de cette sensation magique lorsque vous aviez terminé votre album de stickers?",
+        "card": {
+          "primaryButton": "COMMENCER VOTRE COLLECTION"
+        },
+        "items": {
+          "league": {
+            "title": "LaLiga",
+            "description": "Collectez tous les Gol-Balls des meilleurs buteurs de la saison. Ce seront les joueurs qui marquent cinq buts ou plus - vous pouvez gagner des récompenses uniques comme des maillots signés, un dîner avec vos idoles et bien plus encore.",
+            "subtitle": "Une collection incroyable!"
+          },
+          "team": {
+            "title": "Collections de clubs",
+            "description": "Collectez tous les Gol-Balls de votre club préféré pendant la saison. Lorsque vous avez terminé la collection, vous obtenez un Gol-Ball exclusif que seuls les vrais collectionneurs de Gol-Ball possèdent.",
+            "subtitle": "La collection la plus personnelle!"
+          },
+          "scorer": {
+            "title": "Collection de buteurs",
+            "description": "Collectez tous les Gol-Balls de votre joueur préféré tout au long de la saison. Lorsque vous avez terminé la collection, vous obtenez une récompense spéciale.",
+            "subtitle": "Une collection très axée sur les buts!"
+          }
+        },
+        "pageSubtitle": "Maintenant, vous pouvez compléter différentes collections de Balles Digitales et participer pour gagner de superbes prix. Choisissez le vôtre et commencez maintenant."
+      },
+      "collectionDetails": {
+        "dialog": {
+          "title": "Vous n'avez toujours pas lié votre téléphone portable!",
+          "description": "Pour ce faire, vous devez enregistrer votre téléphone portable.",
+          "confirm": "CONNECTEZ UN NUMÉRO",
+          "cancel": "ANNULER"
+        },
+        "giga": {
+          "title": "GIGAPHOTO",
+          "subTitle": "Êtes-vous allé au stade? Trouvez-vous!"
+        },
+        "selfie": {
+          "button": "PHOTO DE CÉLÉBRATION",
+          "mySelfie": "MA SELFIE"
+        },
+        "stickers": {
+          "button": "Envoyer des stickers"
+        },
+        "wallet": {
+          "button": "Envoyer à votre téléphone portable"
+        },
+        "recomendations": {
+          "title": "POURRAIT VOUS INTÉRESSER"
+        },
+        "messages": {
+          "sendStickers": {
+            "success": "Les stickers ont été envoyés à votre téléphone portable",
+            "error": "Il y a eu une erreur lors de l'envoi du sticker"
+          }
+        }
+      },
+      "collectableSelfieEditor": {
+        "saveButton": "Sauvegarder",
+        "editor": {
+          "players": "Joueurs",
+          "stroke": "Coup de pinceau",
+          "finetuneAdjustments": "Détails"
+        }
+      }
+    },
+    "collectionsList": {
+      "collections": {
+        "pageTitle": "Vous souvenez-vous de cette sensation magique lorsque vous aviez terminé votre album de stickers?",
+        "card": {
+          "primaryButton": "COMMENCER VOTRE COLLECTION"
+        },
+        "items": {
+          "league": {
+            "title": "LaLiga",
+            "description": "Collectez tous les Gol-Balls des meilleurs buteurs de la saison. Ce seront les joueurs qui marquent cinq buts ou plus - vous pouvez gagner des récompenses uniques comme des maillots signés, un dîner avec vos idoles et bien plus encore.",
+            "subtitle": "Une collection incroyable!"
+          },
+          "team": {
+            "title": "Collections de clubs",
+            "description": "Collectez tous les Gol-Balls de votre club préféré pendant la saison. Lorsque vous avez terminé la collection, vous obtenez un Gol-Ball exclusif que seuls les vrais collectionneurs de Gol-Ball possèdent.",
+            "subtitle": "La collection la plus personnelle!"
+          },
+          "scorer": {
+            "title": "Collection de buteurs",
+            "description": "Collectez tous les Gol-Balls de votre joueur préféré tout au long de la saison. Lorsque vous avez terminé la collection, vous obtenez une récompense spéciale.",
+            "subtitle": "Une collection très axée sur les buts!"
+          }
+        },
+        "pageSubtitle": "Maintenant, vous pouvez compléter différentes collections de Balles Digitales et participer pour gagner de superbes prix. Choisissez le vôtre et commencez maintenant."
+      },
+      "collectionDetails": {
+        "dialog": {
+          "title": "Vous n'avez toujours pas lié votre téléphone portable!",
+          "description": "Pour ce faire, vous devez enregistrer votre téléphone portable.",
+          "confirm": "CONNECTEZ UN NUMÉRO",
+          "cancel": "ANNULER"
+        },
+        "giga": {
+          "title": "GIGAPHOTO",
+          "subTitle": "Êtes-vous allé au stade? Trouvez-vous!"
+        },
+        "selfie": {
+          "button": "PHOTO DE CÉLÉBRATION",
+          "mySelfie": "MA SELFIE"
+        },
+        "stickers": {
+          "button": "Envoyer des stickers"
+        },
+        "wallet": {
+          "button": "Envoyer à votre téléphone portable"
+        },
+        "recomendations": {
+          "title": "POURRAIT VOUS INTÉRESSER"
+        },
+        "messages": {
+          "sendStickers": {
+            "success": "Les stickers ont été envoyés à votre téléphone portable",
+            "error": "Il y a eu une erreur lors de l'envoi du sticker"
+          }
+        }
+      },
+      "collectableSelfieEditor": {
+        "saveButton": "Sauvegarder",
+        "editor": {
+          "players": "Joueurs",
+          "stroke": "Coup de pinceau",
+          "finetuneAdjustments": "Détails"
+        }
+      }
+    },
+    "collections": {
+      "pageTitle": "Collections LaLiga 22/23",
+      "card": {
+        "primaryButton": "COMPLÉTEZ VOTRE COLLECTION"
+      },
+      "items": {
+        "goals": "Buts disponibles",
+        "teams": {
+          "title": "Collection Club",
+          "description": "Collectionnez toutes les balles avec lesquelles votre équipe préférée a marqué pendant la saison."
+        }
+      }
+    },
+    "collectionDetails": {
+      "links": {
+        "polygonscan": "Voir le contrat intelligent",
+        "blockchain": "Voir la transaction"
+      },
+      "dialog": {
+        "title": "Vous n'avez toujours pas lié votre téléphone portable !",
+        "description": "Pour ce faire, vous devez enregistrer votre téléphone portable.",
+        "confirm": "LIENZ UN NUMÉRO",
+        "cancel": "ANNULER"
+      },
+      "giga": {
+        "title": "GIGAPHOTO",
+        "subTitle": "Êtes-vous allé au stade ? Repérez-vous !"
+      },
+      "selfie": {
+        "button": "PHOTO DE CÉLÉBRATION",
+        "mySelfie": "MA PHOTO"
+      },
+      "stickers": {
+        "button": "Envoyer des stickers",
+        "close": "Fermer",
+        "UNAVAILABLE": "Aucun sticker disponible !"
+      },
+      "wallet": {
+        "button": "Envoyer à votre téléphone portable"
+      },
+      "polygonscan": {
+        "link": "Voir dans Polygonscan"
+      },
+      "recomendations": {
+        "title": "PEUT VOUS INTÉRESSER"
+      },
+      "video": {
+        "button": "Regarder la vidéo"
+      },
+      "share": {
+        "button": "Partager"
+      },
+      "messages": {
+        "sendStickers": {
+          "success": "Les stickers ont été envoyés à votre téléphone portable",
+          "error": "Une erreur s'est produite lors de l'envoi du sticker"
+        }
+      }
+    },
+    "collectableSelfieEditor": {
+      "saveButton": "Enregistrer",
+      "editor": {
+        "players": "Joueurs",
+        "stroke": "Trait",
+        "finetuneAdjustments": "Détails"
+      }
+    },
+    "match": {
+      "notStartedMatch": "Le match commence le",
+      "liveMatch": "Le match a commencé le",
+      "endMatch": "Wow! Il n'y a pas eu de buts dans ce match.",
+      "to_marketplace": "Aller au marché",
+      "live": "EN DIRECT"
+    },
+    "bookmarks": {
+      "pageTitle": "Favoris"
+    },
+    "notifications": {
+      "title": "Notifications"
+    },
+    "login": {
+      "errors": {
+        "loginIdError": "Veuillez entrer votre e-mail enregistré ou le nom d'utilisateur Gol-Ball",
+        "passwordError": "Veuillez entrer votre mot de passe",
+        "credentialsError": "L'email et/ou le mot de passe sont invalides. Veuillez réessayer."
+      },
+      "imageTitle": "Maintenant, vous pouvez gagner <br/> chaque ballon avec lequel un but est marqué dans LaLiga",
+      "title": "Connexion",
+      "loginId": "E-mail ou nom d'utilisateur",
+      "password": "Mot de passe",
+      "forgotPassword": "Mot de passe oublié?",
+      "actionButton": "Connexion",
+      "createAccount": "Créer un compte"
+    },
+    "smsVerification": {
+      "errors": {
+        "SERVER_ERROR": "Erreur inattendue. Veuillez réessayer ultérieurement.",
+        "SMS_ERROR": "Erreur lors de l'envoi du SMS",
+        "INVALID_CODE": "Code invalide",
+        "EXPIRATED_CODE": "Code expiré",
+        "RECAPTCHA_ERROR": "Nous n'avons pas pu vérifier que vous n'êtes pas un robot. Veuillez réessayer ultérieurement"
+      },
+      "success": "Votre numéro de téléphone a été validé avec succès",
+      "title": "Validation par SMS",
+      "subtitle": "Entrez votre numéro de téléphone portable",
+      "sendCode": "Envoyer le code",
+      "codeExpiration": "Le code expirera dans ",
+      "codeExpired": "Le code a expiré.",
+      "alreadySavedPhone": "Vous avez déjà validé le numéro",
+      "clear": "Effacer",
+      "notReceivedCode": "Vous n'avez pas reçu le code?",
+      "reSendCode": "Renvoyer",
+      "seconds": "secondes",
+      "second": "seconde",
+      "cooldownStart": "Attendez ",
+      "cooldownEnd": "pour renvoyer",
+      "cancel": "Annuler",
+      "confirm": "Confirmer",
+      "blockedConfirm": "Le numéro saisi est trop long",
+      "edit": "Modifier le numéro",
+      "continue": "Continuer",
+      "skip": "Retourner en arrière"
+    },
+    "profile": {
+      "saveAvatar": "Enregistrer l'image",
+      "uploadButton": "Télécharger une image",
+      "avatarDisclaimer": "Utilisez des formats d'image valides (jpg, png).",
+      "alerts": {
+        "smsSuccess": "Numéro validé avec succès !",
+        "passwordSuccess": "Mot de passe modifié avec succès !",
+        "avatarSuccess": "Avatar modifié avec succès !",
+        "dataSuccess": "Informations personnelles modifiées avec succès !",
+        "leagueSuccess": "Ligue préférée modifiée avec succès !",
+        "teamSuccess": "Club préféré modifié avec succès !",
+        "profileErrors": {
+          "serverError": "Quelque chose s'est mal passé. Réessayez plus tard",
+          "DUPLICATED_NICKNAME": "Il y a déjà un compte actif avec cet utilisateur. Veuillez en choisir un autre."
+        }
+      },
+      "phoneModal": {
+        "title": "Le ballon de chaque but pourrait être à vous",
+        "description": "Veuillez remplir vos coordonnées afin que nous puissions vous contacter en cas de gain d'un des ballons de football ou de tout autre prix à gagner",
+        "buttonTitle": "Compris !"
+      },
+      "changePassword": "Changer le mot de passe",
+      "errors": {
+        "nicknameError": "Le pseudo ne doit contenir que des lettres, des chiffres, des tirets bas, des points et doit comporter au moins 4 caractères.",
+        "mailError": "Adresse e-mail invalide.",
+        "firstNameError": "Doit entrer un prénom valide.",
+        "lastNameError": "Doit entrer un nom de famille valide.",
+        "cellphoneError": "Doit entrer un numéro de téléphone valide.",
+        "countryError": "Doit entrer un pays valide.",
+        "departmentError": "Doit entrer une province.",
+        "directionError": "Doit entrer une adresse.",
+        "cityError": "Doit entrer une ville."
+      },
+      "formBasicData": {
+        "firstName": "Prénom",
+        "lastName": "Nom de famille",
+        "email": "Email",
+        "nickname": "Pseudo",
+        "countryCode": "Code",
+        "country": "Pays",
+        "countryPlaceholder": "Sélectionnez votre pays",
+        "countryNoOptions": "Aucun pays trouvé",
+        "department": "Province",
+        "departmentPlaceholder": "Sélectionnez votre province",
+        "departmentNoOptions": "Aucune province trouvée",
+        "city": "Ville",
+        "direction": "Adresse"
+      },
+      "tabs": {
+        "account": "Mon compte",
+        "security": "Sécurité",
+        "preferences": "Préférences"
+      },
+      "securitySection": {
+        "passwordTitle": "Mot de passe",
+        "passwordDescription": "Vous pouvez modifier votre mot de passe si vous le souhaitez.",
+        "passwordButton": "Changer le mot de passe",
+        "phoneTitle": "Vérification de téléphone",
+        "phoneDescription": "Nous utilisons votre numéro de téléphone portable comme fonction de sécurité supplémentaire.",
+        "phoneButtonNew": "Vérifier le téléphone portable",
+        "phoneButtonEdit": "Modifier le téléphone portable"
+      },
+      "preferencesSection": {
+        "leagueTitle": "Ligue préférée",
+        "leagueDescription": "La ligue préférée que vous choisissez influencera les GOL-BALLs qui vous seront présentés",
+        "leagueLabel": "Sélectionner une ligue",
+        "leagueNoOptions": "Aucune ligue trouvée",
+        "leagueConfirm": "Enregistrer",
+        "clubTitle": "Club préféré",
+        "clubDescription": "Le club préféré que vous choisissez influencera les GOL-BALLs qui vous seront présentés",
+        "clubLabel": "Sélectionner votre club préféré",
+        "clubNoOptions": "Aucun club trouvé",
+        "clubConfirm": "Enregistrer"
+      },
+      "title": "Mon profil",
+      "confirmButton": "Enregistrer les modifications"
+    },
+    "change-password": {
+      "title": "Changer le mot de passe",
+      "formData": {
+        "oldPassword": "Ancien mot de passe",
+        "newPassword": "Nouveau mot de passe",
+        "repeatPassword": "Répéter le nouveau mot de passe",
+        "oldPasswordPlaceholder": "Entrer l'ancien mot de passe",
+        "newPasswordPlaceholder": "Entrer le nouveau mot de passe",
+        "repeatPasswordPlaceholder": "Répéter le nouveau mot de passe"
+      },
+      "errors": {
+        "invalidCredentials": "L'ancien mot de passe est incorrect"
+      },
+      "confirmButton": "Changer le mot de passe"
+    },
+    "signup": {
+      "errors": {
+        "mailError": "Veuillez entrer une adresse e-mail au format : nom@example.com",
+        "nicknameError": "L'utilisateur n'est pas valide, veuillez entrer un autre nom d'utilisateur",
+        "signupError": "Une erreur s'est produite lors de l'activation de votre compte. Veuillez réessayer ou contacter le support.",
+        "signupError_DUPLICATED_EMAIL": "Il existe déjà un compte actif avec cette adresse e-mail.",
+        "signupError_UNDELIVERABLE_EMAIL": "Veuillez entrer une adresse e-mail valide",
+        "signupError_DUPLICATED_NICKNAME": "Il existe déjà un compte actif avec cet utilisateur. Veuillez en choisir un autre",
+        "signupError_INTERNAL_ERROR": "Désolé ! Quelque chose ne s'est pas déroulé comme prévu. Réessayez.",
+        "termsAndPrivacyMissing": "Il est obligatoire d'accepter les termes et conditions."
+      },
+      "title": "Créer un compte",
+      "email": "Email",
+      "nickname": "Nom d'utilisateur",
+      "password": "Mot de passe",
+      "passwordConfirmation": "Répétez le mot de passe",
+      "passwordRequirements": "Utilisez de 8 à 16 caractères avec une combinaison de minuscules, de majuscules et de chiffres.",
+      "login": "Se connecter",
+      "actionButton": "S'inscrire",
+      "agreeText": "J'ai au moins 18 ans et j'ai lu et accepté les",
+      "terms": "Termes et conditions",
+      "agreeTextConector": "et la",
+      "privacy": "Politique de confidentialité",
+      "isSuccess": {
+        "message.line1": "Veuillez vérifier votre e-mail. Nous avons envoyé un e-mail à :",
+        "message.line2": "Cliquez sur le lien que nous vous avons envoyé pour valider votre compte."
+      },
+      "googleSignup1": "Vous pouvez utiliser votre compte Google",
+      "googleSignup2": "Ou entrez vos coordonnées ci-dessous"
+    },
+    "accountRecovery": {
+      "errors": {
+        "mailError": "Veuillez entrer une adresse e-mail valide au format : nom@exemple.com",
+        "accountRecoveryError": "Une erreur s'est produite lors de la réinitialisation de votre compte. Veuillez réessayer."
+      },
+      "isSuccess": {
+        "message.line1": "Veuillez vérifier votre e-mail. Nous avons envoyé un e-mail à : ",
+        "message.line2": "Si l'e-mail est enregistré, vous recevrez des instructions sur la façon de récupérer votre compte."
+      },
+      "title": "Mot de passe oublié?",
+      "subtitle": "Veuillez entrer l'e-mail avec lequel vous vous êtes inscrit sur Gol-Ball. Nous vous enverrons un lien pour récupérer votre compte",
+      "email": "Email",
+      "actionButton": "Envoyer le lien de récupération",
+      "return": "Retour"
+    },
+    "accountRecoveryNewPassword": {
+      "errors": {
+        "mailError": "Veuillez entrer une adresse email valide au format : name@example.com",
+        "accountRecoveryError": "Une erreur est survenue lors de la réinitialisation de votre mot de passe. Veuillez réessayer.",
+        "accountRecoveryError_INVALID_RECOVERY_DATA": "Une erreur est survenue lors de la réinitialisation de votre compte. Le lien utilisé est invalide.",
+        "accountRecoveryError_CODE_ALREADY_USED": "Une erreur est survenue lors de la réinitialisation de votre compte. Le lien a déjà été utilisé. Si vous souhaitez réinitialiser votre mot de passe à nouveau, veuillez recommencer le processus.",
+        "accountRecoveryError_CODE_EXPIRED": "Une erreur est survenue lors de la réinitialisation de votre compte. Le lien a expiré. Veuillez réinitialiser votre mot de passe à nouveau."
+      },
+      "missingRecoveryId": "",
+      "title": "Réinitialisation du mot de passe",
+      "email": "Email",
+      "password": "Nouveau mot de passe",
+      "passwordConfirmation": "Confirmez votre nouveau mot de passe",
+      "login": "Annuler",
+      "actionButton": "Enregistrer le nouveau mot de passe",
+      "isSuccess": {
+        "message.line1": "Votre mot de passe a été réinitialisé avec succès !",
+        "message.line2": "Veuillez vous connecter en cliquant sur",
+        "action": "ce lien"
+      }
+    },
+    "accountActivation": {
+      "errors": {
+        "activationError": "Une erreur s'est produite lors de l'activation de votre compte. Veuillez réessayer ou contacter le support.",
+        "activationError_ACTIVATION_ALREADY_MADE": "Votre compte a déjà été activé. Veuillez essayer de vous connecter avec votre email/nom d'utilisateur et mot de passe."
+      },
+      "isSuccess": {
+        "message.line1": "Votre compte a été créé avec succès !",
+        "message.line2": "Veuillez cliquer sur ce lien pour accéder à",
+        "action": "ce lien"
+      }
+    },
+    "selfieUpdate": {
+      "success": "La selfie a été enregistrée avec succès !",
+      "error": "La selfie n'a pas pu être enregistrée."
+    },
+    "product": {
+      "title": "But de °",
+      "price": "Prix : ",
+      "countdown": "Date de livraison du ballon physique :",
+      "museum": "Ce ballon numérique n'est pas encore en vente",
+      "museum_tooltip": "Ce Goal-Ball sera envoyé au musée LaLiga et sera disponible à la vente à la fin de la saison lors d'un événement spécial.",
+      "piece": {
+        "modal": {
+          "another": "Voir d'autres",
+          "amount": "La valeur de votre balle numérique est de:",
+          "available": " disponible",
+          "confirm": "CONFIRMER",
+          "selectNumber": "Sélectionnez un numéro de balle numérique pour participer et gagner la balle physique,",
+          "between": "entre 1 et ",
+          "selectedPiece": "Si vous préférez, vous pouvez choisir votre numéro fétiche",
+          "paymentMethod": "Choisissez votre méthode de paiement",
+          "creditCard": "Carte de crédit",
+          "crypto": "Cryptomonnaies",
+          "buyFree": "Cette première balle numérique est GRATUITE",
+          "errors": {
+            "gettingRandomPieceNumber": "Nous n'avons pas pu obtenir un nouveau numéro. Réessayez.",
+            "standard": "La balle numérique saisie n'est pas disponible.",
+            "WEB2NFT_API_SERVER_ERROR": "Une erreur est survenue, veuillez réessayer.",
+            "NOT_AVAILABLE": "Le numéro {{number}} n'est plus disponible. Veuillez en choisir un autre.",
+            "GENERIC_ERROR": "Une erreur est survenue, veuillez réessayer.",
+            "MAX_HOLD_USER_REACHED": "Vous essayez d'acheter plus de 3 balles numériques en même temps. Veuillez réessayer plus tard.",
+            "CANT_HOLD_PIECE_NUMBER": "Le numéro {{number}} n'est plus disponible. Veuillez en choisir un autre."
+          }
+        },
+        "maxNFTNumber": "N'oubliez pas que vous pouvez choisir jusqu'à 5 balles numériques à acheter.",
+        "date": "Date de livraison de la balle physique:",
+        "quantity": "Balles numériques à acheter:",
+        "size": "Nombre de balles numériques émises:",
+        "amount": "Valeur de la balle numérique:",
+        "buyTicket": "ACHETER",
+        "buyFree": "Balles numériques gratuites"
+      },
+      "productSection": {
+        "titleDetails": "DÉTAILS",
+        "goalResult": "Buteur",
+        "finalResult": "Score final: <strong>{{result}}</strong>",
+        "liveResult": "Score actuel: <strong>{{result}}</strong>",
+        "charityPrefix": "Les fonds collectés seront versés à la campagne « Chaque Minute Compte ». ",
+        "campaign": {
+          "cadaminutocuenta": {
+            "alt_logo": "Logo de la campagne de dons pour la Turquie et la Syrie indiquant Cada minuto Cuenta"
+          }
+        },
+        "newProduct": {
+          "content": "Bientôt, vous pourrez profiter de toutes les fonctionnalités de votre ballon numérique !"
+        },
+        "museumProduct": {
+          "content": "Ce ballon numérique sera envoyé au musée de la LaLiga. Restez à l'affût des dernières nouvelles.",
+          "button": "En vente sur"
+        },
+        "finishedProduct": {
+          "content": "Ce ballon numérique n'est plus disponible. Nous annoncerons bientôt le gagnant du ballon physique."
+        },
+        "holdedProduct": {
+          "content": "Ce ballon numérique sera envoyé au musée de la LaLiga. Nous vous préviendrons lorsque la vente sera ouverte. Restez à l'affût !"
+        },
+        "liveProduct": {
+          "content": "Le ballon vient de toucher le fond du filet ! Réservez votre Gol-Ball maintenant avant qu'il ne soit trop tard."
+        },
+        "assignedProduct": {
+          "content": "Le jour est arrivé ! Le chanceux de ce Gol-Ball est le propriétaire du ballon numérique n°"
+        },
+        "productTypeTitle": {
+          "GOAL": "But",
+          "TSHIRT": "T-shirt"
+        },
+        "labels": {
+          "type": "Type :",
+          "tournament": "Ligue :",
+          "competition": "Saison :",
+          "matchStage": "Étape :",
+          "matchStageNumber": "Semaine :",
+          "matchVersusLabel": "Match :",
+          "matchDate": "Date :",
+          "matchStadium": "Stade :"
+        }
+      },
+      "timelineSection": {
+        "eventMinute": "Minute {{minutes}}",
+        "eventTypes": {
+          "GOAL": "BUT",
+          "OWN_GOAL": "BUT CONTRE SON CAMP",
+          "BALL_SIGNATURE": "SIGNATURE DU BALLON",
+          "BROKEN": "ERREUR",
+          "CHAIN_OF_CUSTODY": "CHAÎNE DE CUSTODIE",
+          "FAILED_PENALTY": "PÉNALITÉ MANQUÉE",
+          "LOST": "PERDU",
+          "INITIAL_BALL": "BALLON INITIAL",
+          "SIGN": "SIGNER"
+        }
+      },
+      "multimediaSection": {
+        "tabs": {
+          "multimediaTabVIDEO": "REPLAY",
+          "multimediaTabTACTIC": "TACTIQUES",
+          "multimediaTabCHAIN_OF_CUSTODY": "CONSERVATION SÉCURISÉE"
+        },
+        "title": {
+          "VIDEO": "Replay",
+          "TACTIC": "Tactiques",
+          "CHAIN_OF_CUSTODY": "Conservation sécurisée"
+        },
+        "descripcion": {
+          "VIDEO": "Replay",
+          "TACTIC": "Découvrez les tactiques utilisées lors de chaque but du match",
+          "CHAIN_OF_CUSTODY": "Photos du processus de conservation sécurisée du Gol Ball prises pendant le match."
+        },
+        "comments": "COMMENTAIRES",
+        "acctionButton": "Achetez votre ballon numérique pour accéder à cette section"
+      },
+      "productEventsSectionTitle": "ÉVÉNEMENTS DU MATCH",
+      "back": "Retourner",
+      "time": {
+        "timeLeft": "Temps restant : ",
+        "endsAt": "Se termine :"
+      }
+    },
+    "thankYouPage": {
+      "title": "FÉLICITATIONS!",
+      "matchResult": "Score final ",
+      "paymentInProgress": "Le paiement de votre achat du Gol-Ball <strong># {{nftNumber}}</strong> est en cours.",
+      "paymentFree": "Vous avez acquis avec succès le Gol-Ball <strong># {{nftNumber}}</strong>.",
+      "pieceNumber": "Votre numéro de Digital Ball avec lequel vous allez participer est <strong>{{pieceNumber}}</strong>",
+      "primaryButton": "MON GOL-BALL",
+      "secondaryButton": "VOIR LES AUTRES GOL-BALLS",
+      "marketplaceButton": "Aller au Marketplace",
+      "errors": {
+        "CART_ALREADY_CONFIRMED": "Votre paiement a été confirmé.",
+        "GENERIC_ERROR": "Une erreur s'est produite. Veuillez réessayer."
+      }
+    },
+    "faq": {
+      "title": "Comment pouvons-nous vous aider?",
+      "questions": {
+        "golball": {
+          "title": "Gol-Ball",
+          "questions": {
+            "0": {
+              "question": "Qu'est-ce que Gol-Ball?",
+              "answer": "Il unit le monde physique et Web3. Pour chaque ballon avec lequel un but est marqué dans LaLiga Santander, nous créons une version numérique. Pour que cela se produise, le ballon est retiré du terrain, identifié, certifié et numérisé afin de devenir un ballon numérique. Chaque Gol-Ball acquis apporte une chance de gagner le ballon physique avec lequel le but a été marqué."
+            },
+            "1": {
+              "question": "Comment certifient-ils le ballon?",
+              "answer": "Chaque ballon a un autocollant unique qui garantit son authenticité. De plus, il comprend un code QR unique avec tous les détails du but."
+            },
+            "2": {
+              "question": "Le ballon physique est-il en vente?",
+              "answer": "Non. Le ballon physique n'est pas en vente. Le ballon physique peut être obtenu par tirage au sort entre les utilisateurs qui acquièrent une série de chaque ballon numérique."
+            },
+            "3": {
+              "question": "Qu'est-ce qu'un ballon numérique?",
+              "answer": "C'est un objet unique que vous pouvez acquérir pour collectionner, partager, échanger ou vendre sur différentes plateformes Web3. Ces ballons numériques utilisent la technologie blockchain pour garantir leur authenticité."
+            },
+            "4": {
+              "question": "Comment participer pour le ballon physique?",
+              "answer": "Pour participer au tirage au sort pour le ballon physique, vous devez d'abord acquérir un ballon numérique disponible sur notre site Web. Après avoir acquis votre ballon numérique, vous serez attribué un numéro et entré dans le tirage au sort pour le ballon physique, qui vous sera ensuite livré si vous avez le numéro gagnant."
+            },
+            "5": {
+              "question": "Quand recevez-vous le ballon?",
+              "answer": "Parmi les utilisateurs qui acquièrent un Gol-Ball, une combinaison aléatoire sera faite pour livrer le ballon physique de ce but."
+            },
+            "6": {
+              "question": "Combien coûtent les ballons numériques?",
+              "answer": "Chaque Gol-Ball a une valeur indépendante, ses variables sont basées sur le type de but, le championnat, le score, le joueur qui a marqué et d'autres statistiques. Habituellement, vous pourrez obtenir le vôtre pour 5 $."
+            }
+          }
+        },
+        "glosary": {
+          "title": "Glossaire",
+          "questions": {
+            "0": {
+              "question": "Musée LaLiga",
+              "answer": "Un Gol-Ball d'El Clásico, de chaque derby et d'Atlético de Madrid contre Barcelone sera envoyé au musée de LaLiga et sera disponible à la vente à la fin de la saison lors d'un événement spécial."
+            },
+            "1": {
+              "question": "Double but",
+              "answer": "Ceci se produit lorsque deux joueurs marquent un but avec le même ballon. Cela se produit car le ballon n'a pas quitté le terrain de jeu lorsque le premier but a été marqué. C'est un cas exceptionnellement rare."
+            },
+            "2": {
+              "question": "But contre son camp",
+              "answer": "Lorsqu'un joueur marque un but contre son camp, il sera également disponible sous forme de ballon numérique."
+            },
+            "3": {
+              "question": "Détails du but",
+              "answer": "Les informations relatives au but. Vous pourrez trouver la tactique de but, la minute à laquelle il a été marqué, le joueur qui a marqué, le stade, le jour, la saison, la chaîne de garde et bien plus encore."
+            },
+            "4": {
+              "question": "Certificat numérique",
+              "answer": "Cela accompagne le ballon numérique que vous achetez sur notre site web, il a un design unique et contient un code QR avec tous les détails du but."
+            },
+            "5": {
+              "question": "Ballon 3D",
+              "answer": "Il s'agit du ballon officiel de LaLiga Santander dans sa version numérique et 3D. Vous pouvez voir le ballon sous différents angles, trouver l'autocollant Gol-Ball avec les informations sur le ballon, un code QR et également la signature du joueur qui a marqué."
+            },
+            "6": {
+              "question": "Ballon numérique",
+              "answer": "Ceci est un article unique que vous pouvez acquérir pour collectionner, partager, échanger ou vendre sur différentes plateformes Web3. Ces ballons numériques utilisent la technologie blockchain pour garantir leur authenticité."
+            },
+            "7": {
+              "question": "Chaîne de garde",
+              "answer": "Il s'agit du registre photographique effectué sur chaque ballon de but, depuis le moment où il touche le filet jusqu'à son authentification et sa certification."
+            },
+            "8": {
+              "question": "Gol-Ball",
+              "answer": "Il s'agit du ballon officiel d'un match de LaLiga Santander avec lequel un but est marqué dans l'un des matchs de la compétition. / Il s'agit du ballon avec lequel un but est marqué dans n'importe quel match de LaLiga Santander."
+            },
+            "9": {
+              "question": "Collections",
+              "answer": "Nous avons créé trois options pour vous permettre de collectionner des Gol-Balls :<br/>Votre club préféré de LaLiga<br/>Le buteur d'une équipe<br/>Le meilleur buteur d'une saison."
+            }
+          }
+        },
+        "buy": {
+          "title": "Paiements et Dépôts",
+          "questions": {
+            "0": {
+              "question": "Puis-je payer par carte de crédit?",
+              "answer": "Oui, tous les types de cartes de crédit sont acceptés."
+            },
+            "1": {
+              "question": "Puis-je payer par carte de débit?",
+              "answer": "Oui, tous les types de cartes de débit sont acceptés."
+            },
+            "2": {
+              "question": "Puis-je payer avec des cryptomonnaies?",
+              "answer": "Oui, nous acceptons les cryptomonnaies."
+            }
+          }
+        },
+        "piece": {
+          "title": "Livraison du ballon",
+          "questions": {
+            "0": {
+              "question": "Que se passe-t-il s'il y a un hat-trick?",
+              "answer": "Les 3 balles différentes avec lesquelles le joueur a marqué seront certifiées."
+            },
+            "1": {
+              "question": "Que se passe-t-il si la balle ne quitte pas le terrain après un but et qu'un autre but est marqué avec?",
+              "answer": "C'est un cas exceptionnel qui rend la balle encore plus spéciale. Sur notre marché, elle apparaîtra comme un Double Gol."
+            },
+            "2": {
+              "question": "Comment savoir que j'acquiers le Gol-Ball que j'ai choisi et non un autre?",
+              "answer": "Gol-Ball a un processus qui permet de vérifier à chaque match quand un joueur marque un but, afin que la balle soit retirée du terrain et plus tard authentifiée et certifiée. De plus, une stricte chaîne de garde de la balle de but est maintenue avec des preuves photographiques de retrait et de certification."
+            },
+            "3": {
+              "question": "Comment pouvez-vous ramener la balle à la maison?",
+              "answer": "Lorsque le gagnant est choisi, un membre de notre équipe vous contactera pour organiser la collecte de la balle dans nos bureaux à Madrid ou la livraison chez vous."
+            },
+            "4": {
+              "question": "Que se passe-t-il si une balle numérique est épuisée? Y en aura-t-il plus?",
+              "answer": "Non. Nous mettons un nombre limité d'unités de balles numériques à disposition des utilisateurs et lorsqu'elles sont toutes revendiquées, elles ne seront plus disponibles."
+            },
+            "5": {
+              "question": "Que se passe-t-il dans le scénario rare d'un Double Gol?",
+              "answer": "Dans le cas où plus d'un but est marqué avec une seule balle physique, le tirage au sort sera mis à disposition des propriétaires de la série de balles numériques Gol-Ball."
+            }
+          }
+        }
+      }
+    },
+    "contact": {
+      "title": "Nous contacter",
+      "email": "E-mail",
+      "reason": "Motif du contact",
+      "detail": "Comment pouvons-nous vous aider?",
+      "files": "Joindre un fichier",
+      "confirmButton": "ENVOYER",
+      "sentTitle": "Merci de nous avoir contactés!",
+      "sentSubtitle": "Nous vous répondrons dès que possible",
+      "sentButtonPrimary": "Aller à la place de marché",
+      "sentButtonSecondary": "Aller à l'accueil",
+      "errors": {
+        "emailError": "Vous devez entrer une adresse e-mail valide",
+        "reasonError": "Vous devez entrer un motif de contact",
+        "detailError": "Vous devez entrer une description du motif"
+      },
+      "alerts": {
+        "serverError": "Quelque chose d'inattendu s'est produit. Veuillez réessayer plus tard."
+      }
+    },
+    "onboarding": {
+      "fansPreferences": {
+        "fillPhone": "Validation du téléphone",
+        "selectTeam": "Choisissez votre club préféré",
+        "selectPlayer": "Choisissez votre joueur préféré",
+        "selectLeague": "Choisissez votre ligue préférée"
+      },
+      "selectCountry": "Choisissez votre pays de résidence",
+      "nextAction": "Suivant",
+      "backAction": "Précédent",
+      "skipAction": "Passer",
+      "finishAction": "Confirmer",
+      "errors": {
+        "defaultError": "Une erreur inattendue s'est produite. Réessayez plus tard",
+        "countryError": "Une erreur s'est produite en enregistrant le pays choisi. Réessayez"
+      }
+    },
+    "movements": {
+      "empty": "Vous n'avez pas encore de mouvements",
+      "emptyTransfers": "Vous n'avez pas encore effectué de transferts",
+      "goToMarket": "Aller au marché",
+      "return": "Retour",
+      "title": "Mes Mouvements",
+      "today": "Aujourd'hui",
+      "serverError": {
+        "buys": "Les achats ne sont pas disponibles pour le moment",
+        "transactions": "Les transactions ne sont pas disponibles pour le moment"
+      },
+      "panel": {
+        "buys": "Achats",
+        "transfers": "Transferts"
+      },
+      "card": {
+        "seeTransaction": "Voir la transaction",
+        "buyTime": "Heure d'achat",
+        "transferTime": "Heure de transfert",
+        "status": {
+          "bought": "Acheté",
+          "received": "Reçu",
+          "sent": "Envoyé"
+        },
+        "movementType": {
+          "MATCH_PRESALE": "Prévente",
+          "GOAL": "Ballon numérique"
+        },
+        "transactionStatus": {
+          "sent": "Transaction envoyée",
+          "pending": "Transaction en attente",
+          "expired": "Transaction expirée",
+          "received": "Transaction reçue"
+        },
+        "transactionChip": {
+          "received": "Reçu",
+          "sent": "Envoyé",
+          "pending": "En attente",
+          "expired": "Expiré"
+        },
+        "payment": {
+          "STRIPE": "Paiement par carte",
+          "FREE": "Gratuit",
+          "GOLCOINS": "Paiement avec Golcoins",
+          "PRESALE": "Prévente",
+          "COINBASE": "Paiement avec des cryptomonnaies"
+        },
+        "origin": "De",
+        "target": "À",
+        "date": "Date du match"
+      },
+      "months": {
+        "1": "Jan",
+        "2": "Fév",
+        "3": "Mar",
+        "4": "Avr",
+        "5": "Mai",
+        "7": "Juil",
+        "8": "Août",
+        "9": "Sep",
+        "10": "Oct",
+        "11": "Nov",
+        "12": "Déc"
+      },
+      "finish": "Il n'y a plus de mouvements",
+      "goToTransfers": "Aller à Mes Gol-Balls"
+    }
+  },
+  "validations": {
+    "password": {
+      "required": "Vous devez entrer un mot de passe",
+      "minLength": "Le mot de passe doit être entre 8 et 16 caractères",
+      "maxLength": "Le mot de passe doit être entre 8 et 16 caractères",
+      "number": "Le mot de passe doit contenir un chiffre",
+      "upper": "Le mot de passe doit contenir une lettre majuscule",
+      "lower": "Le mot de passe doit contenir une lettre minuscule",
+      "match": "Les mots de passe doivent correspondre"
+    }
+  },
+  "components": {
+    "benefitGift": {
+      "firstBuy": {
+        "title": "Félicitations!",
+        "description": "Nous vous offrons un ballon numérique gratuit pour découvrir et profiter de notre produit."
+      }
+    },
+    "charityModal": {
+      "title": "Chaque Minute Compte",
+      "description": "Vous pouvez contribuer à aider les victimes en Turquie et en Syrie",
+      "action": "Rejoignez et aidez-nous !",
+      "close": "Non, merci"
+    },
+    "cookiesSnackbar": {
+      "content": "Notre site Web utilise uniquement des cookies strictement nécessaires pour assurer un fonctionnement correct. Ces cookies sont définis en réponse à une utilisation web normale et aux actions entreprises par l'utilisateur, telles que les paramètres de langue, la connexion, et ne stockent aucune information qui identifie de manière non équivoque l'utilisateur ou des informations confidentielles ou personnelles. Si vous continuez à utiliser notre site Web, vous devez accepter notre utilisation de ces cookies.",
+      "accept": "TOUT ACCEPTER",
+      "reject": "TOUT REFUSER"
+    },
+    "productCard": {
+      "sending": "Envoi en cours",
+      "matchResult": "Score final",
+      "liveResult": "Score actuel",
+      "versus": "vs",
+      "auctionState": {
+        "active": "Actif"
+      },
+      "pieceState": {
+        "active": "Actif"
+      },
+      "productState": {
+        "finished": "EN RUPTURE DE STOCK",
+        "notAvailable": "NON DISPONIBLE"
+      },
+      "tags": {
+        "doubleGoal": "Double but",
+        "tripleGoal": "Triple but",
+        "ownGoal": "But contre son camp",
+        "museum": "Musée"
+      },
+      "available": "Disponible",
+      "pieceNumber": "# {{pieceNumber}}"
+    },
+    "certificateBall": "#",
+    "noResultsCard": {
+      "title": "Oooops!"
+    },
+    "backButton": {
+      "title": "Retour"
+    },
+    "progressBar": {
+      "title": "Objets de collection :"
+    },
+    "languageMenu": {
+      "title": "Langues",
+      "en": "Anglais",
+      "es": "Espagnol"
+    },
+    "timeLine": {
+      "BALL_SIGNATURE": "SIGNATURE DE BALLON",
+      "GOAL": "BUT"
+    },
+    "assigned_tag": {
+      "title": "Propriétaire de ballon"
+    },
+    "productTabs": {
+      "tabs": {
+        "BALL": "BALLE 3D",
+        "DETAIL": "Détails du but",
+        "CERTIFICATE": "Certificat numérique"
+      }
+    },
+    "relatedProducts": {
+      "title": "COMPLÉTEZ VOS COLLECTIONS"
+    },
+    "productStats": {
+      "title": "Données de collection",
+      "chartLabel": "Quantité maximale",
+      "chartLabelAbbreviated": "Max. quant",
+      "data": {
+        "presold": "Précommandés",
+        "on_sale": "Disponible",
+        "owned": "Possédés",
+        "reserved": "Réservés",
+        "holded": "Achat en cours"
+      }
+    },
+    "productBenefits": {
+      "title": "POURQUOI ACHETER UN BALLON NUMÉRIQUE ?",
+      "selfie": {
+        "title": "UN SELFIE VAUT MIEUX QUE MILLE MOTS",
+        "description": "Voulez-vous avoir un souvenir incroyable ? Aimez-vous poster des photos amusantes sur vos réseaux ? Prenez une photo avec notre Totem."
+      },
+      "stickers": {
+        "title": "LES DERNIERS STICKERS",
+        "description": "Pour chaque Ballon Numérique acheté, vous recevrez une série de nouveaux stickers de l'équipe et de leur meilleur buteur pour que vous puissiez continuer à encourager où que vous alliez, ou les envoyer à qui vous voulez discuter."
+      },
+      "collections": {
+        "title": "COLLECTIONNEZ ET GAGNEZ",
+        "description": "Complétez les collections disponibles en achetant les différents Ballons Numériques et vous aurez la possibilité de remporter des prix exclusifs, imaginés par et pour les fans."
+      },
+      "physical": {
+        "title": "BALLON PHYSIQUE DU BUT",
+        "description": "L'acquisition du Ballon Numérique vous donne l'opportunité d'être l'un des fans chanceux à repartir avec un souvenir unique et spécial : le même Ballon Physique avec lequel votre équipe a marqué le but."
+      },
+      "commissioners": {
+        "title": "L'IMPORTANCE DES COMMISSAIRES",
+        "description": "Après avoir célébré un but, le Ballon Physique avec lequel il a été marqué est identifié, retiré du terrain, sécurisé sur nos Totems, signé par les joueurs dans la plupart des cas, numérisé et mis en ligne sur notre Market ; et tout cela grâce à nos commissaires. Regardez les photos du processus et découvrez leur travail. Peut-être que ce sera vous un jour !",
+        "shortdescription": "Après avoir célébré un but, le Ballon Physique avec lequel il a été marqué est identifié, retiré du terrain, sécurisé sur nos Totems, signé par les joueurs dans la plupart des cas..."
+      },
+      "tactics": {
+        "title": "LE TABLEAU TACTIQUE",
+        "description": "Voulez-vous vous sentir comme un entraîneur pour une journée ? Vous pourrez analyser en détail toute l'action de but et découvrir la trajectoire que le ballon a suivie avant de toucher le filet."
+      },
+      "hide": "Cacher",
+      "expand": "Voir plus"
+    },
+    "phoneVerificationDialog": {
+      "title": "Si vous êtes le propriétaire d'un Gol-Ball, nous vous contacterons !",
+      "description": "Enregistrez votre numéro de téléphone portable pour profiter des autocollants de chaque but et vous contacter dans le cas où vous seriez le <strong>propriétaire d'un Gol-ball.</strong>",
+      "confirm": "CONNECTER UN NUMÉRO"
+    }
+  },
+  "alert": {
+    "addBookmarkSuccess": "Favori ajouté avec succès",
+    "addBookmarkError": "Erreur lors de l'ajout du favori",
+    "deleteBookmarkSuccess": "Favori supprimé avec succès",
+    "deleteBookmarkError": "Erreur lors de la suppression du favori"
+  },
+  "error": {
+    "message": "Une erreur s'est produite : ",
+    "DEFAULT": "Quelque chose ne s'est pas déroulé comme prévu. Veuillez réessayer.",
+    "BUTTON": "Réessayer",
+    "404NOTFOUND": "La page que vous cherchiez est introuvable"
+  },
+  "countryPopup": {
+    "title": "Pour le moment, notre produit n'est pas disponible dans votre pays ou votre région.",
+    "secondRow": "En attendant, vous pouvez parcourir notre marché.",
+    "action": "Visiter Gol-ball"
+  },
+  "triviaPopup": {
+    "title": "Vous participerez au tirage au sort pour le Gol-Ball",
+    "secondRow": "Si vous faites partie des entrants sélectionnés, vous devrez répondre correctement à un questionnaire sur le football avec l'aide de vos connaissances sur ce sport.",
+    "action": "Compris !"
+  },
+  "shareModal": {
+    "title": "Partager",
+    "copy": "Copier l'URL",
+    "done": "Copié!"
+  },
+  "cookiesDisabledPopup": {
+    "title": "Les cookies sont désactivés !",
+    "secondRow": "Votre navigateur a les cookies désactivés. Assurez-vous que vos cookies sont activés et réessayez."
+  }
+}
