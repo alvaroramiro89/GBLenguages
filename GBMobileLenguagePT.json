@@ -1,0 +1,648 @@
+{
+  "login": {
+    "login": {
+      "errors": {
+        "loginIdError": "Por favor, digite seu e-mail cadastrado ou nome de usuário Gol-Ball",
+        "passwordError": "Por favor, digite uma senha",
+        "credentialsError": "E-mail e/ou senha inválidos. Tente novamente"
+      },
+      "imageTitle": "Agora você pode ser dono dos <br/>Gol-balls dos seus times favoritos",
+      "title": "Faça login",
+      "loginId": "E-mail ou usuário",
+      "password": "Senha",
+      "forgotPassword": "Esqueceu sua senha?",
+      "actionButton": "Fazer login",
+      "createAccount": "Cadastrar-se",
+      "polity": "Políticas e privacidade",
+      "tyc": "Termos e condições",
+      "oauthSigninLabel": "Ou faça login com:"
+    },
+    "preRegister": {
+      "title": "Junte-se agora e colecione os gols do seu clube e jogador favorito",
+      "register": "Registrar-se conosco",
+      "login": "Iniciar sessão",
+      "oauthSigninLabel": "Registre-se ou faça login com:"
+    },
+    "register": {
+      "errors": {
+        "mailError": "Por favor, insira um email válido",
+        "passwordError": "Por favor, insira uma senha",
+        "passwordConfirmationError": "As senhas devem ser iguais",
+        "signupError": "Ocorreu um erro ao criar sua conta. Por favor, tente novamente.",
+        "signupError_DUPLICATED_EMAIL": "Já existe uma conta com o email inserido",
+        "signupError_DUPLICATED_NICKNAME": "Já existe uma conta com o usuário inserido. Por favor, escolha outro",
+        "signupError_INTERNAL_ERROR": "Algo deu errado. Tente novamente.",
+        "termsAndPrivacyMissing": "É obrigatório aceitar os termos e condições"
+      },
+      "title": "Criar conta",
+      "email": "Email",
+      "nickname": "Usuário",
+      "password": "Senha",
+      "passwordConfirmation": "Repetir senha",
+      "passwordRequirements": "Use entre 8 e 16 caracteres com uma combinação de letras minúsculas, maiúsculas e números.",
+      "login": "Entrar",
+      "actionButton": "Criar conta",
+      "agreeText": "Tenho pelo menos 18 anos de idade e li e aceito os",
+      "terms": "Termos e Condições",
+      "agreeTextConector": "e a",
+      "privacy": "Política de Privacidade"
+    },
+    "registerMailSent": {
+      "isSuccess": {
+        "message.line1": "Enviamos um e-mail para:",
+        "message.line2": "Clique no link enviado para validar sua conta."
+      },
+      "toMail": "Abrir e-mail",
+      "login": "Iniciar sessão"
+    },
+    "forgotPassword": {
+      "errors": {
+        "mailError": "Por favor, insira um e-mail válido",
+        "accountRecoveryError": "Ocorreu um erro ao recuperar sua conta. Tente novamente."
+      },
+      "isSuccess": {
+        "message.line1": "Por favor, verifique seu e-mail. Enviamos uma mensagem para: ",
+        "message.line2": "Se o e-mail estiver registrado, você receberá as instruções para recuperar sua conta."
+      },
+      "title": "Esqueceu sua senha?",
+      "subtitle": "Por favor, insira o e-mail com o qual você se registrou no Gol-Ball. Enviaremos um link para recuperá-lo.",
+      "email": "E-mail",
+      "actionButton": "Enviar link de recuperação",
+      "return": "Voltar",
+      "toMail": "Abrir e-mail"
+    }
+  },
+  "onboarding": {
+    "country": {
+      "title": "Bem-vindo ao Gol-Ball",
+      "description": "Por favor, revise e complete as seguintes informações:",
+      "label": "País",
+      "confirm": "Confirmar",
+      "errors": {
+        "countryError": "Você deve selecionar o seu país"
+      }
+    },
+    "team": {
+      "title": "Selecione seu clube favorito",
+      "skip": "Pular",
+      "errors": {
+        "defaultError": "Ocorreu um erro inesperado. Tente novamente em outro momento",
+        "teamError": "Ocorreu um erro ao salvar o clube escolhido. Tente novamente"
+      }
+    },
+    "phone": {
+      "title": "Validação telefônica",
+      "next": "Finalizar",
+      "skip": "Pular",
+      "return": "Voltar",
+      "errors": {
+        "defaultError": "Ocorreu um erro inesperado. Tente novamente em outro momento",
+        "phoneError": "Ocorreu um erro ao salvar o telefone escolhido. Tente novamente"
+      }
+    }
+  },
+  "bookmark": {
+    "bookmark": {
+      "header": "Favoritos",
+      "title": "Você não tem favoritos",
+      "subtitle": "Comece a salvar seus gols favoritos para acompanhá-los de perto",
+      "button": "Ir para o mercado"
+    }
+  },
+  "profile": {
+    "profile": {
+      "close": "Encerrar sessão",
+      "start": "Iniciar sessão",
+      "menu": {
+        "personalData": "Dados pessoais",
+        "preferences": "Preferências",
+        "security": "Segurança"
+      },
+      "title": "Meu perfil",
+      "confirmButton": "Salvar alterações",
+      "version": "Versão "
+    },
+    "personalData": {
+      "header": "Dados pessoais",
+      "menu": {
+        "userName": "Nome de usuário",
+        "name": "Nome e sobrenome",
+        "email": "E-mail",
+        "location": "Localização",
+        "address": "Endereço"
+      },
+      "noCompleted": "Não concluído",
+      "loading": "Carregando"
+    },
+    "security": {
+      "header": "Segurança",
+      "menu": {
+        "phone": "Validação telefônica",
+        "password": "Senha"
+      },
+      "phoneNotValidated": "Este campo é obrigatório"
+    },
+    "preferences": {
+      "header": "Preferências",
+      "menu": {
+        "club": "Clube favorito"
+      },
+      "noClub": "Não preenchido",
+      "subtitle": "O clube favorito que você escolher influenciará nos GOL-BALL apresentados",
+      "action": "Escolher clube"
+    },
+    "names": {
+      "header": "Nome e sobrenome",
+      "firstName": "Nome",
+      "lastName": "Sobrenome",
+      "action": "Salvar mudanças",
+      "errors": {
+        "firstNameError": "Você deve digitar um nome válido",
+        "lastNameError": "Você deve digitar um sobrenome válido",
+        "serverError": "Algo deu errado. Por favor, tente novamente mais tarde."
+      }
+    },
+    "nickname": {
+      "header": "Nome de usuário",
+      "nickname": "Nome de usuário",
+      "action": "Salvar alterações",
+      "errors": {
+        "nicknameError": "O nome de usuário deve conter apenas letras, números, pontos, traços e ter pelo menos 4 caracteres.",
+        "serverError": "Algo deu errado. Tente novamente mais tarde.",
+        "serverError_DUPLICATED_NICKNAME": "Nome de usuário indisponível"
+      }
+    },
+    "location": {
+      "header": "Localização",
+      "errors": {
+        "serverError": "Algo deu errado. Tente novamente mais tarde."
+      }
+    },
+    "address": {
+      "header": "Endereço",
+      "state": "Estado",
+      "city": "Cidade",
+      "address": "Endereço",
+      "errors": {
+        "stateError": "Você deve inserir um estado",
+        "addressError": "Você deve inserir um endereço",
+        "addressCityError": "Você deve inserir uma cidade",
+        "serverError": "Algo deu errado. Tente novamente mais tarde."
+      },
+      "action": "Salvar alterações"
+    },
+    "phone": {
+      "header": "Validação telefônica",
+      "return": "Voltar"
+    },
+    "change-password": {
+      "header": "Alterar senha",
+      "title": "Alterar senha",
+      "formData": {
+        "oldPassword": "Senha antiga",
+        "newPassword": "Nova senha",
+        "repeatPassword": "Repetir senha",
+        "oldPasswordPlaceholder": "Digite a senha antiga",
+        "newPasswordPlaceholder": "Digite a nova senha",
+        "repeatPasswordPlaceholder": "Digite a senha novamente"
+      },
+      "errors": {
+        "invalidCredentials": "A senha antiga está incorreta"
+      },
+      "confirmButton": "Modificar senha",
+      "return": "Voltar"
+    }
+  },
+  "common": {
+    "golcoin": "GOL-COINS",
+    "screenLayout": {
+      "title": "Erro"
+    },
+    "menuDrawer": {
+      "collections": "Coleções",
+      "bookmarks": "Favoritos",
+      "movements": "Movimentos",
+      "profile": "Perfil",
+      "logout": "Sair",
+      "login": "Entrar",
+      "signup": "Cadastro",
+      "soon": "Em breve"
+    },
+    "feedbackScreen": {
+      "login": {
+        "title": "Comece sua coleção",
+        "subtitle": "Para ver seus colecionáveis, é necessário fazer login ou se registrar em nosso sistema. Faça isso agora e descubra tudo o que temos para oferecer!",
+        "buttonText": "Entrar"
+      },
+      "maintenance": {
+        "title": "Manutenção",
+        "subtitle": "Voltaremos em breve!\nEstamos ajustando o GOL-BALL para melhorar sua experiência."
+      },
+      "error": {
+        "title": "Ocorreu um erro",
+        "subtitle": "Por favor, tente novamente mais tarde ou entre em contato com nossa equipe de suporte para obter ajuda.",
+        "buttonText": "Tentar novamente"
+      },
+      "update": {
+        "title": "Atualização disponível",
+        "subtitle": "Melhoramos sua experiência com a última atualização disponível.\nBaixe-a agora e não perca nenhum GOL-BALL",
+        "buttonText": "Baixar agora"
+      },
+      "updatingPackage": {
+        "title": "Atualização em andamento",
+        "subtitle": "Estamos atualizando as últimas configurações para melhorar sua experiência."
+      }
+    },
+    "tabNavigator": {
+      "marketplace": "Mercado",
+      "matches": "Partidas",
+      "collections": "Coleções",
+      "myGolballs": "Meus Gol-Balls"
+    },
+    "errors": {
+      "GENERIC_ERROR": "Algo não saiu como esperado. Tente novamente mais tarde",
+      "GENERIC_ERROR_BUTTON": "Tentar novamente"
+    },
+    "legal": {
+      "copyright": "Gol-Ball Todos os direitos reservados",
+      "polity": "Políticas e Privacidade",
+      "polityLink": "https://static.prod.golball.com/marketplace/docs/privacy_policy_es.pdf",
+      "tyc": "Termos e condições",
+      "tycLink": "https://static.prod.golball.com/marketplace/docs/tyc_es.pdf"
+    },
+    "countrySelector": {
+      "placeholder": "Digite seu país",
+      "noResults": "Nenhum resultado encontrado",
+      "errors": {
+        "defaultError": "Ocorreu um erro inesperado. Tente novamente mais tarde",
+        "countryError": "Ocorreu um erro ao salvar o país escolhido. Tente novamente"
+      }
+    },
+    "smsVerification": {
+      "errors": {
+        "SERVER_ERROR": "Erro inesperado. Tente novamente mais tarde.",
+        "SMS_ERROR": "Erro ao enviar SMS",
+        "INVALID_CODE": "Código inválido",
+        "EXPIRATED_CODE": "Código expirado",
+        "VALIDATION_PROCESS_SAME_PHONE": "Número já validado"
+      },
+      "success": "Seu telefone foi validado com sucesso.",
+      "title": "Validação SMS",
+      "subtitle": "Digite o número do seu celular",
+      "sendCode": "Enviar código",
+      "codeExpiration": "O código expirará em 5 minutos",
+      "codeExpirated": "O código expirou",
+      "notReceivedCode": "Não recebeu o código?",
+      "reSendCode": "Reenviar",
+      "reSendCodeDisabled": "Reenviar em ",
+      "cooldown": "Espere {{time}} {{timeText}} para reenviar",
+      "seconds": "segundos",
+      "second": "segundo",
+      "cancel": "Cancelar",
+      "confirm": "Confirmar",
+      "edit": "Editar número",
+      "continue": "Continuar",
+      "skip": "Voltar",
+      "alreadySavedPhone": "Número já validado"
+    },
+    "timeline": {
+      "eventMinute": "Minuto {{minutes}}",
+      "view": "Ver",
+      "eventTypes": {
+        "GOAL": "GOL",
+        "OWN_GOAL": "GOL CONTRA",
+        "BALL_SIGNATURE": "ASSINATURA DA BOLA",
+        "BROKEN": "ERRO",
+        "CHAIN_OF_CUSTODY": "CADEIA DE CUSTÓDIA",
+        "FAILED_PENALTY": "PÊNALTI FALHADO",
+        "LOST": "PERDIDO",
+        "INITIAL_BALL": "BOLA INICIAL",
+        "SIGN": "ASSINATURA"
+      }
+    },
+    "goalLayout": {
+      "matchResult": "Placar final",
+      "liveResult": "Placar parcial",
+      "minute": "Minuto",
+      "versus": "vs",
+      "pieceState": {
+        "active": "Ativo"
+      },
+      "productState": {
+        "finished": "ESGOTADO",
+        "notAvailable": "NÃO À VENDA",
+        "notAssigned": "NÃO ATRIBUÍDO"
+      },
+      "tags": {
+        "doubleGoal": "Gol Duplo",
+        "tripleGoal": "Gol Triplo",
+        "ownGoal": "Gol Contra",
+        "museum": "Museu"
+      },
+      "available": "Disponíveis",
+      "pieceNumber": "# {{pieceNumber}}",
+      "assignedTo": "Dono da bola #"
+    },
+    "share": {
+      "title": "Compartilhar com ",
+      "success": "Link compartilhado com sucesso",
+      "error": "Erro ao compartilhar"
+    },
+    "youtube": {
+      "error": "Erro ao abrir o link"
+    },
+    "matchCard": {
+      "vs": "vs"
+    },
+    "matchStatus": {
+      "live": "Ao vivo",
+      "presale": "Pré-venda",
+      "finished": "Finalizado",
+      "notStarted": "Não começou"
+    }
+  },
+  "marketplace": {
+    "components": {
+      "clubFilter": {
+        "label": "Clube"
+      },
+      "paymentButton": {
+        "buyTicket": "COMPRAR",
+        "buyFree": "Colecionável grátis"
+      },
+      "goalDetails": {
+        "subtitle": "GOL #{{goalNumber}} VS {{team}}",
+        "finalResult": "Placar final",
+        "liveResult": "Placar parcial",
+        "minute": "Minuto",
+        "goalResult": "Placar do gol",
+        "labels": {
+          "type": "Tipo",
+          "tournament": "Liga",
+          "competition": "Temporada",
+          "matchStage": "Etapa",
+          "matchStageNumber": "Rodada",
+          "matchVersusLabel": "Confronto",
+          "matchDate": "Data da partida",
+          "matchStadium": "Estádio"
+        }
+      },
+      "productDetail3DModel": {
+        "BALL": "Bola 3D",
+        "CERTIFICATE": "Certificado"
+      },
+      "goalSummary": {
+        "title": "GOL #{{goalNumber}} VS {{team}}",
+        "minute": "Minuto"
+      }
+    },
+    "market": {
+      "filters": {
+        "title": "Filtros",
+        "club": "Clube",
+        "confirm": "Mostrar resultados",
+        "clearFilter": "Limpar filtros",
+        "player": "Jogador",
+        "onlyAvailable": "Somente disponíveis"
+      }
+    },
+    "productDetail": {
+      "soldCollectibles": "Colecionáveis vendidos",
+      "purchaseDisabledAlert": "A compra de Gol-Balls está temporariamente desabilitada",
+      "DETAIL": "Detalhes do gol",
+      "productBenefits": {
+        "title": "Benefícios da compra do seu GOL-BALL",
+        "selfie": {
+          "title": "SELFIE COM SEUS JOGADORES FAVORITOS",
+          "description": "Você poderá enquadrar esses momentos de felicidade em sua galeria."
+        },
+        "stickers": {
+          "title": "STICKERS",
+          "description": "Você poderá usar stickers dos seus clubes e jogadores favoritos."
+        },
+        "collections": {
+          "title": "COLEÇÕES",
+          "description": "Colecione os gols do seu clube favorito e poderá obter prêmios exclusivos."
+        },
+        "physical": {
+          "title": "BOLA FÍSICA",
+          "description": "Adquira seu colecionável digital e participe para ganhar a bola física, a bola com a qual o gol foi marcado."
+        },
+        "tactics": {
+          "title": "Tática",
+          "description": "Analise a tática de uma jogada para examinar os movimentos de cada um dos Gols que foram marcados na partida.",
+          "label": "DESBLOQUEAR COM SEU GOLBALL"
+        },
+        "custody": {
+          "title": "Custódia",
+          "description": "Fotos do processo de custódia da Bola de Gol extraída do jogo.",
+          "label": "DESBLOQUEAR COM SEU GOLBALL"
+        }
+      },
+      "smartContract": "Smart contract",
+      "relatedProductTitle": "Complete suas coleções",
+      "alerts": {
+        "newProduct": {
+          "content": "Em breve você poderá desfrutar de todas as funcionalidades do seu colecionável!"
+        },
+        "finishedProduct": {
+          "content": "Este colecionável não está mais disponível. Em breve anunciaremos o vencedor da Bola de Gol."
+        },
+        "museumProduct": {
+          "button": "À venda em",
+          "content": "Este colecionável será enviado ao museu LaLiga."
+        },
+        "liveProduct": {
+          "content": "Goooooll!! Reserve seu Gol-Ball antes que acabe."
+        },
+        "assignedProduct": {
+          "content": "Chegou o dia! O sortudo proprietário deste Gol-Ball é quem possui o colecionável #"
+        },
+        "smartContractError": "Não é possível abrir o link"
+      },
+      "confirm": "COMPRAR"
+    },
+    "golCollectionDetail": {
+      "available": "Disponíveis",
+      "details": "Detalhes",
+      "reservedDetail": "Em reserva",
+      "availableDetail": "Disponível",
+      "ownedDetail": "Possuem proprietário",
+      "buyNowDetail": "Comprando agora"
+    },
+    "checkout": {
+      "title": "Selecione o número do seu colecionável para concorrer à bola física,",
+      "another": "Ver outros",
+      "between": "entre 1 e ",
+      "subtitle": "GOL #{{goalNumber}} VS {{team}}",
+      "minute": "Minuto",
+      "selectedPiece": "Ou escreva o seu número da sorte",
+      "amount": "O valor é:",
+      "confirm": "CONFIRMAR",
+      "buyFree": "Obtenha este colecionável gratuitamente agora!",
+      "errors": {
+        "gettingRandomPieceNumber": "Não foi possível obter um novo número. Tente novamente.",
+        "standard": "O gol-ball inserido não está disponível",
+        "WEB2NFT_API_SERVER_ERROR": "Ocorreu um erro, por favor tente novamente",
+        "NOT_AVAILABLE": "O número {{number}} não está mais disponível. Por favor, escolha outro.",
+        "GENERIC_ERROR": "Ocorreu um erro no processamento do pagamento. Tente novamente.",
+        "MAX_HOLD_USER_REACHED": "Você está tentando comprar mais de 3 colecionáveis de uma vez. Por favor, tente mais tarde.",
+        "CANT_HOLD_PIECE_NUMBER": "O número {{number}} não está mais disponível. Por favor, escolha outro."
+      }
+    },
+    "purchaseSuccess": {
+      "title": "Pagamento aprovado",
+      "subtitle": "Obrigado pela sua compra!",
+      "congratulations": "Parabéns!",
+      "purchaseSuccessful": "A compra do seu colecionável Gol-Ball foi bem-sucedida!",
+      "confirm": "CONTINUAR"
+    },
+    "golcoinPurchase": {
+      "alert": "Os Gol-Coins são a moeda virtual do Gol-Ball, que permite adquirir colecionáveis no nosso App.",
+      "purchaseErrorAlert": "Ocorreu um erro, por favor tente mais tarde.",
+      "purchaseDisabledAlert": "A compra de Gol-Coins está temporariamente desabilitada",
+      "getGolcoins": "Você precisa de {{amount}} Gol-coins para comprar:",
+      "confirm": "Comprar"
+    }
+  },
+  "matches": {
+    "components": {
+      "weekFilter": {
+        "week": "Rodada"
+      },
+      "matchMessage": {
+        "week": "Rodada"
+      },
+      "matchCard": {
+        "live": "AO VIVO"
+      },
+      "horizontalMatchCard": {
+        "live": "Ao vivo",
+        "presale": "Pré-venda",
+        "finished": "Finalizado",
+        "notStarted": "Não começou"
+      }
+    },
+    "matchesFilter": {
+      "pageTitle": "Jogos da temporada",
+      "week": "Rodada",
+      "live": "AO VIVO"
+    },
+    "matchDetail": {
+      "preorder": "PRÉ-VENDA",
+      "notStartedMatch": "O jogo começa em",
+      "liveMatch": "O jogo começou em",
+      "endMatch": "Ops! Neste jogo não houve gols",
+      "live": "AO VIVO",
+      "purchaseDisabledAlert": "As pré-vendas estão temporariamente desabilitadas."
+    },
+    "presale": {
+      "noBuysOnStart": "* Fecha no início do jogo",
+      "benefits": "Benefícios",
+      "benefitsTitle": "Pré-compre a versão digital das bolas de gol",
+      "action": "COMPRAR",
+      "benefitsBottomSheet": {
+        "1": "Participa dos",
+        "2": "Garanta-os,",
+        "3": "Pague 1 e",
+        "4": "Se não ocorrerem ",
+        "1_important": "Bolas Físicas",
+        "2_important": " se esgotam rápido",
+        "3_important": "leve todas as do seu time",
+        "4_important": "nós devolvemos o saldo"
+      },
+      "subtitle": "1 colecionável por cada Gol-Ball de ",
+      "errors": {
+        "serverError": "Algo deu errado. Tente novamente mais tarde"
+      }
+    },
+    "presaleSuccessPayment": {
+      "purchase": "Sua compra",
+      "title": "Parabéns!",
+      "allGoals": "Todos os gols ",
+      "acreditation": "Quando os gols acontecerem, eles serão creditados em sua conta",
+      "action": "Ver mais Jogos"
+    }
+  },
+  "myGolBalls": {
+    "myGolBalls": {
+      "noContactInformationAlert": "Por favor, lembre-se de fornecer suas informações de contato para que possamos entrar em contato com você caso ganhe a bola física.",
+      "noResults": "Comece sua coleção hoje",
+      "noGolBalls": {
+        "title": "Comece sua coleção",
+        "subtitle": "Visite nosso mercado e comece a colecionar os gols do seu clube favorito!",
+        "buttonText": "IR PARA O MERCADO"
+      },
+      "yourBall": "A BOLA É SUA"
+    },
+    "golBallDetail": {
+      "feedback": {
+        "successStickers": "Adesivos enviados com sucesso",
+        "errorGeneric": "Tente novamente mais tarde"
+      },
+      "seeStickers": "Adesivos",
+      "sendStickers": "Enviar adesivos",
+      "chainOfCustody": "Cadeia de Custódia",
+      "tactic": "Tática",
+      "smartContract": "Contrato Inteligente",
+      "transaction": "Transação",
+      "alerts": {
+        "newProduct": {
+          "content": "Em breve, você poderá desfrutar de todas as funcionalidades do seu colecionável!"
+        },
+        "finishedProduct": {
+          "content": "Este colecionável não está mais disponível. Em breve, anunciaremos o vencedor do Gol Ball."
+        },
+        "assignedProduct": {
+          "content": "Chegou o grande dia! O sortudo proprietário deste Gol-Ball é aquele que tem o colecionável #"
+        },
+        "smartContractError": "Não é possível abrir o link",
+        "transactionError": "Não é possível abrir o link"
+      }
+    }
+  },
+  "validations": {
+    "password": {
+      "required": "Você deve digitar uma senha",
+      "minLength": "A senha deve ter entre 8 e 16 caracteres",
+      "maxLength": "A senha deve ter entre 8 e 16 caracteres",
+      "number": "A senha deve conter um número",
+      "upper": "A senha deve conter uma letra maiúscula",
+      "lower": "A senha deve conter uma letra minúscula",
+      "match": "As senhas devem coincidir"
+    }
+  },
+  "tutorial": {
+    "numberOfItems": 3,
+    "items": {
+      "0": {
+        "title": "Bem-vindo ao GOL-BALL",
+        "description": "Quando um gol é marcado, a bola é retirada sem interromper o tempo de jogo. \n\nEla é autenticada pelo exclusivo processo de Gol Ball e então é custodiada até ser entregue ao vencedor do sorteio."
+      },
+      "1": {
+        "title": "Bola física",
+        "description": "A bola física é cuidadosamente custodiada durante todo o processo e enviada ao vencedor em seu endereço."
+      },
+      "2": {
+        "title": "Coleções e prêmios",
+        "description": "Complete coleções de gols digitais para participar de sorteios exclusivos de prêmios, como ingressos para partidas e bolas oficiais da liga."
+      }
+    },
+    "next": "Próximo",
+    "omit": "Pular",
+    "register": "Registro"
+  },
+  "collections": {
+    "collectionsGroup": {
+      "title": "Coleções GOL-BALL",
+      "TEAM": {
+        "title": "Coleção de Clubes",
+        "description": "Escolha seu time ou times favoritos e adquira todas as bolas com as quais eles marcaram gol durante esta temporada. Você poderá ganhar grandes prêmios."
+      },
+      "PLACEHOLDER": {
+        "title": "Novas coleções\nem breve",
+        "description": ""
+      }
+    }
+  }
+}
